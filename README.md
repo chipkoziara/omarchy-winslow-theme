@@ -10,7 +10,7 @@ ocean, sand, and dusk tones for a quiet desktop.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<you>/winslow-omarchy-theme
+omarchy theme install https://github.com/<you>/omarchy-winslow-theme
 ```
 
 ## Palette
