@@ -26,7 +26,7 @@ Backgrounds included (all public-domain Winslow Homer paintings):
 ### Method 2: CLI
 
 ```bash
-omarchy-theme-install https://github.com/<you>/winslow-omarchy-theme.git
+omarchy theme install https://github.com/<you>/winslow-omarchy-theme.git
 ```
 
 ### Method 3: Local
@@ -43,23 +43,10 @@ Then apply it:
 omarchy theme set Winslow
 ```
 
-## Included configs
+## Included files
 
-| File | App / scope |
-|------|-------------|
-| `colors.toml` | Omarchy core color system (semantic names + ANSI) |
+| File | Purpose |
+|------|---------|
+| `colors.toml` | Omarchy color system (semantic names + ANSI) |
 | `icons.theme` | Icon set (`Yaru-yellow`) |
-| `backgrounds/` | Wallpapers (5 Winslow Homer paintings) |
-| `neovim.lua` | Neovim (aether.nvim colors) |
-| `vscode.json` | VSCode / VSCodium theme |
-| `vscode-extension/` | Local VSCode color theme extension |
-| `aether.zed.json` | Zed editor theme |
-| `alacritty.toml`, `foot.ini`, `kitty.conf`, `ghostty.conf` | Terminals |
-| `btop.theme` | btop |
-| `waybar.css`, `wofi.css`, `walker.css`, `mako.ini`, `swayosd.css` | Bar / launcher / notifications / OSD |
-| `gtk.css` | GTK theming |
-| `hyprland.conf`, `hyprlock.conf` | Hyprland / lock screen colors |
-| `chromium.theme` | Chromium |
-| `vencord.theme.css` | Vencord (Discord) |
-| `warp.yaml` | Warp terminal |
-| `zellij.kdl` | Zellij |
+| `backgrounds/` | Five Winslow Homer paintings |
