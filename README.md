@@ -2,7 +2,7 @@
 
 “The sun will not rise or set without my notice and thanks.” — Winslow Homer
 
-A dark, calm Omarchy theme inspired by Winslow Homer’s seascapes: muted
+A dark, calm [Omarchy](https://omarchy.org/) theme inspired by Winslow Homer’s seascapes: muted
 ocean, sand, and dusk tones for a quiet desktop.
 
 ![Winslow Homer, Right and Left](backgrounds/01-Winslow-Homer-1909-Right-and-Left.jpg)
@@ -10,7 +10,7 @@ ocean, sand, and dusk tones for a quiet desktop.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<you>/omarchy-winslow-theme
+omarchy theme install https://github.com/chipkoziara/omarchy-winslow-theme
 ```
 
 ## Palette
