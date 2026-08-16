@@ -17,10 +17,10 @@ omarchy theme install https://github.com/chipkoziara/omarchy-winslow-theme
 
 | Role | Hex |
 | --- | --- |
-| Background | `#06100c` |
-| Dark background | `#050c09` |
-| Darker background | `#030806` |
-| Lighter background | `#1f2824` |
+| Background | `#13201b` |
+| Dark background | `#0e1814` |
+| Darker background | `#0a100e` |
+| Lighter background | `#2b3632` |
 | Foreground | `#d6c9b1` |
 | Accent | `#9ba4bb` |
 | Selection | `#d6c9b1` |
