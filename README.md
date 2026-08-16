@@ -5,6 +5,8 @@
 A dark, calm [Omarchy](https://omarchy.org/) theme inspired by Winslow Homer’s seascapes: muted
 ocean, sand, and dusk tones for a quiet desktop.
 
+![Winslow preview](preview.png)
+
 ![Winslow Homer, Right and Left](backgrounds/01-Winslow-Homer-1909-Right-and-Left.jpg)
 
 ## Install
