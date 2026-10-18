@@ -25,7 +25,7 @@ omarchy theme install https://github.com/chipkoziara/omarchy-winslow-theme
 | Lighter background | `#2b3632` |
 | Foreground | `#d6c9b1` |
 | Accent | `#9ba4bb` |
-| Selection | `#d6c9b1` |
+| Selection | `#33413c` |
 | Muted | `#616865` |
 
 Full ANSI palette in [`colors.toml`](colors.toml). Icons are `Yaru-yellow`.
